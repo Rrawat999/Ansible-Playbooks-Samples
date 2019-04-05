@@ -1,2 +1,2 @@
-[tomcat-servers]
-webserver1
+[httpd]
+172.31.84.67
